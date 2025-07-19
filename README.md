@@ -2,7 +2,7 @@
 
 **Voice-controlled AI assistant empowering visually impaired users through intelligent voice interaction**
 
-[Watch 5-Minute Demo Presentation](YOUR_VIDEO_LINK)
+[Watch 5-Minute Demo Presentation](https://youtu.be/QZs3axFGtp4)
 
  
 ## Download App
