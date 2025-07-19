@@ -4,8 +4,9 @@
 
 [Watch 5-Minute Demo Presentation](YOUR_VIDEO_LINK)
 
+ 
 ## Download App
-[Download APK](YOUR_APK_LINK)
+[Download APK](https://github.com/pallavi-a11y/voxi-assistive-vision/releases/download/v1.0.0/app-debug.apk)
 
 ---
 
